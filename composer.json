@@ -1,0 +1,12 @@
+{
+    "require": {
+        "symfony/console": "^4.2.3",
+        "psr/http-message": "^1.0.1",
+        "psr/container": "^1.0.0",
+        "simply/container": "^0.3.1",
+        "riimu/kit-phpencoder": "^2.4.0"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-master"
+    }
+}
